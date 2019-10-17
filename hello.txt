@@ -6,4 +6,4 @@ some changes for to_delete branch
 some changes from branch master before we merge them
 
 changes from branch master before rebase
-Hello git rebase
+Hello git rebase from master
