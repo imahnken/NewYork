@@ -12,3 +12,8 @@
     <p>world</p> 
 </body>
 </html>
+Add new line
+Hello Git!
+Hello git cherry-pick
+
+union of commits - new line - Hello squash!
